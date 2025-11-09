@@ -27,8 +27,3 @@ It's a comprehensive demonstration of core Object-Oriented Programming (OOP) pri
 * **UI Toolkit:** Java Swing
 * **Data Persistence:** Java Serialization
 
----
-
-## 👨‍💻 Author
-
-**Adam Grimes** - [LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/Adam-Grimes)
